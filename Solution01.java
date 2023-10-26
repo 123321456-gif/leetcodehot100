@@ -2,6 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Solution01 {
+//
     public int[] twoSum(int[] nums, int target) {
         Map<Integer,Integer> map=new HashMap<>();
 //        将数组映射为（nums[i]，i）的形式存入map中
